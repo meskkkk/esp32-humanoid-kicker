@@ -1,0 +1,12 @@
+{
+  "detected": true,
+  "track_id": -1,
+  "pixel_x": 270,
+  "pixel_y": 169,
+  "world_x": -5.54,
+  "world_y": 34.53,
+  "confidence": 0.93,
+  "fps": 5.5,
+  "sent_to_esp32": false,
+  "timestamp": 1778503878.0640237
+}
